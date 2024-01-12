@@ -1,2 +1,2 @@
-# java1.hafta-dev
+# java1.haftaodev
 Birinci hafta ödevler
